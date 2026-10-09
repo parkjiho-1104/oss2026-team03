@@ -3,8 +3,9 @@
 ## 팀원
 
 | GitHub | 맡은 일 |
-| @parkjiho-1104 | backend |
+| parkjiho-1104 | backend |
 | kwonseop | front |
+| heetaeeee | (C 가 정함) |
 
 ## 규칙
 
