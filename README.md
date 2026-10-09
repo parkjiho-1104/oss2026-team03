@@ -4,3 +4,4 @@
 
 | GitHub | 맡은 일 |
 |---|---|
+| @parkjiho-1104 | backend |
