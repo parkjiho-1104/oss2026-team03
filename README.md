@@ -2,6 +2,6 @@
 
 ## 팀원
 
-| GitHub   | 맡은 일 |
-| -------- | ------- |
-| kwonseop | front   |
+| GitHub | 맡은 일 |
+| @parkjiho-1104 | backend |
+| kwonseop | front |
